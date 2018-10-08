@@ -6,5 +6,6 @@ public class GitTest {
         System.out.println("再次上传");
         System.out.println("右边更新 ");
 
+        System.out.println("左边更新");
     }
 }
